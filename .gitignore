@@ -1,11 +1,14 @@
 *.py[co]
 
 # Packages
+.Python
 *.egg
 *.egg-info
 dist
 build
 eggs
+include
+lib
 parts
 bin
 var
